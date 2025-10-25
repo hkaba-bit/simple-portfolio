@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;html, body {  scroll-behavior: smooth;}.gradient-bg {  background: linear-gradient(to right top, #6366F1, #8B5CF6, #EC4899);}
